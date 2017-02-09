@@ -1,0 +1,22 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It tells git that you want to use version control on the current directory. You still have to add the files you want to track to git.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+It only includes files that you want to track in git. The repository is the set of files already tracked in git. This allows you to group only the files and changes you want into a logical unit prior to uploading them to git.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
