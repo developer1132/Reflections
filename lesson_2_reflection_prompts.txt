@@ -21,6 +21,8 @@ If you're releasing a version to a customer and don't want main development to a
 
 How do the diagrams help you visualize the branch structure?
 
+It makes it easier to see which changes are on which branches.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
