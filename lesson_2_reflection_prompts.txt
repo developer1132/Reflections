@@ -26,5 +26,7 @@ It makes it easier to see which changes are on which branches.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The changes on both branches are now in one file. There's no other way to represent it other than the diagram.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
