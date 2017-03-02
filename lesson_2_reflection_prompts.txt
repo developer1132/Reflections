@@ -30,3 +30,6 @@ The changes on both branches are now in one file. There's no other way to repres
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automatic merging saves time but manual merges allows for the user to make sure it works correctly before committing.
+
